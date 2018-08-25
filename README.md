@@ -1,2 +1,8 @@
-# learning_vr_app_with_a_frame
-First program to learn A Frame
+## Hello, World with A-Frame
+
+### How to run
+Make sure npm is installed, type `npm start` to launch the server in the local
+
+## Related Article
+
+## View live demo
